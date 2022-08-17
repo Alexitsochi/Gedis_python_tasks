@@ -1,4 +1,4 @@
-#"Alexander Govorukhin"
+"""Alexander Govorukhin"""
 
 # 1
 height = input("Введите свой рост: ",)
